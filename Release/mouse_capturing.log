@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mt2si\desktop\projekty\many-faced god\mouse_capturing\mouse_capturing\source.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\mt2si\desktop\projekty\many-faced god\mouse_capturing\mouse_capturing\source.cpp(151): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 399 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mouse_capturing.vcxproj -> C:\Users\mt2si\Desktop\projekty\Many-Faced God\mouse_capturing\Release\mouse_capturing.exe
